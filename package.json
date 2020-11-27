@@ -1,0 +1,25 @@
+{
+  "name": "lazyzen",
+  "version": "1.0.0",
+  "description": "Lazyness for javascript functions",
+  "main": "lazyzen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neu-rah/lazyzen.git"
+  },
+  "keywords": [
+    "javascript",
+    "lazy",
+    "lazyness",
+    "functions"
+  ],
+  "author": "neu-rah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neu-rah/lazyzen/issues"
+  },
+  "homepage": "https://github.com/neu-rah/lazyzen#readme"
+}
