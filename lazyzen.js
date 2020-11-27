@@ -18,4 +18,5 @@ const $$=f=>o=>{
   return f();
 }
 
-exports.lazy=o=>$$(()=>o)
+const $=o=>$$(()=>o)
+exports.lazy=$
